@@ -1,7 +1,7 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 88
-EXTRAVERSION =Dirty-Franco v8.1
+EXTRAVERSION =
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
